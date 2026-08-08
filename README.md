@@ -50,3 +50,5 @@ CSV_Merge_Tool
 │   └── 売上_20260803.csv
 ├── output
 └── merge_csv.py
+
+サンプルCSVとソースコードは、このリポジトリ内の `sample`・`src` フォルダに掲載しています。
