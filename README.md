@@ -7,6 +7,12 @@
 
 ---
 
+## 動作画面
+
+![CSV Merge Tool 実行画面](images/csv-merge-tool.png)
+
+---
+
 ## 主な機能
 
 - 複数CSVの一括結合
